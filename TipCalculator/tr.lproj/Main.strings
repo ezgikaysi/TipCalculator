@@ -1,0 +1,63 @@
+
+/* Class = "UITextField"; placeholder = "$"; ObjectID = "9Nw-gV-wta"; */
+"9Nw-gV-wta.placeholder" = "$";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "GRU-ct-odR"; */
+"GRU-ct-odR.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "OBq-na-oA5"; */
+"OBq-na-oA5.text" = "Varsayılan";
+
+/* Class = "UILabel"; text = "="; ObjectID = "POS-vr-ONv"; */
+"POS-vr-ONv.text" = "=";
+
+/* Class = "UINavigationItem"; title = "Tip Calculator"; ObjectID = "Pm9-RI-pSc"; */
+"Pm9-RI-pSc.title" = "Bahşiş Hesapla";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "QMU-8M-Mtl"; */
+"QMU-8M-Mtl.title" = "<Geri";
+
+/* Class = "UITableViewSection"; headerTitle = "Language"; ObjectID = "SHT-eb-yeR"; */
+"SHT-eb-yeR.headerTitle" = "Dil";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "Vrh-ZK-ttv"; */
+"Vrh-ZK-ttv.text" = "Para Birimi";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "ZKt-lp-FRA"; */
+"ZKt-lp-FRA.text" = "$";
+
+/* Class = "UITableViewSection"; headerTitle = "APPEARANCE"; ObjectID = "Zd7-yZ-vsF"; */
+"Zd7-yZ-vsF.headerTitle" = "Görünüm";
+
+/* Class = "UILabel"; text = "Minimum"; ObjectID = "b2T-PI-64a"; */
+"b2T-PI-64a.text" = "Minimum";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "cus-ug-sgh"; */
+"cus-ug-sgh.placeholder" = "%";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "goq-aU-cDy"; */
+"goq-aU-cDy.placeholder" = "%";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "h2S-Rw-iSN"; */
+"h2S-Rw-iSN.text" = "$";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "kKe-wg-f9j"; */
+"kKe-wg-f9j.placeholder" = "%";
+
+/* Class = "UILabel"; text = "Dark Theme"; ObjectID = "o72-X0-TPs"; */
+"o72-X0-TPs.text" = "Koyu Tema";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "r7t-XN-9E7"; */
+"r7t-XN-9E7.title" = "Ayarlar";
+
+/* Class = "UITableViewSection"; headerTitle = "Tip Percantage"; ObjectID = "uNL-Co-1uD"; */
+"uNL-Co-1uD.headerTitle" = "Bahşiş Oranı";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "uoT-OO-dhN"; */
+"uoT-OO-dhN.title" = "Ayarlar";
+
+/* Class = "UILabel"; text = "Maximum"; ObjectID = "y8b-Wp-fCe"; */
+"y8b-Wp-fCe.text" = "Maksimum";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "yaR-cM-pJ0"; */
+"yaR-cM-pJ0.text" = "+";
